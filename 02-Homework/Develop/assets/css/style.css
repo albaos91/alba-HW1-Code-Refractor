@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+/* Styling the header and the nav bar */
+
 body {
     background-color: #d9dcd6;
 }
@@ -24,7 +26,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +34,7 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
-    list-style-type: none;
-}
-
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -49,6 +47,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* We place the cover image on the center of the webpage */
 
 .hero {
     height: 800px;
@@ -74,6 +74,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Below we style our company's benefits section */
 
 .benefits {
     margin-right: 20px;
@@ -134,6 +136,8 @@ p {
     max-width: 150px;
 }
 
+/* Below we style our main services section */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,6 +191,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Styling our footer and align it to the center */
 
 .footer {
     padding: 30px;
