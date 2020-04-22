@@ -1,4 +1,4 @@
-HW 1- Code Refractor
+# HW 1- Code Refractor Solution Summary
 
 1. The goal of this homework was to make this site more accessibility friendly.
 First I went online and familiarized myself with semantic elements.
