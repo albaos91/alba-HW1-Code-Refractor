@@ -9,11 +9,11 @@ First I went online and familiarized myself with semantic elements.
 
 4. With the guidance of the semantics article I was able to change the divs on the header. At first I put the menus as articles but then I realized that those are the navs because after all they are on the nav bar. 
 
-5. I was able to section my code and separate each article (company service).
+5. I was able to section my code and separate each article (services the company offers).
 
 6. Next I set the benefits of working with the company as aside because even though this part is not on the flow of the main content on the center of the page, it still relates to it. We want the company to be able to list its benefits but not overshadow its services.
 
-7. On the footer I just madxe sure to replace the div with the footer, which is its true identity.
+7. On the footer I made sure to replace the div with the footer, which is its true identity.
 
 8. Next, I moved on to the CSS styles. Took me some time to familiarize myself with the classes and see which class belonged to which line on the html code.
 
@@ -23,4 +23,4 @@ First I went online and familiarized myself with semantic elements.
 
 11. I opened the html on the default browser and Voila! It worked.
 
-12. I alos added notes along the html code and css styles to differentiate the sections.
+12. I also added notes along the html code and css styles to differentiate the sections.
